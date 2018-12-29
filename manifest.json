@@ -1,6 +1,6 @@
 {
     "name": "TPB Proxy Resolver",
-    "version": "1.2",
+    "version": "1.2.1",
     "description": "Automatically load a working proxy for The Pirate Bay. Valid proxies are pulled from https://proxybay.github.io/",
     "background": {
         "scripts": ["background.js"]
