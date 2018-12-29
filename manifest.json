@@ -1,0 +1,22 @@
+{
+    "name": "TPB Proxy Resolver",
+    "version": "1.2",
+    "description": "Automatically load a working proxy for The Pirate Bay. Valid proxies are pulled from https://proxybay.github.io/",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": ["storage", "https://*/"],
+    "browser_action": {
+        "default_title": "Open The Pirate Bay",
+        "default_icon": {
+            "128": "images/logo.png"
+        }
+    },
+    "icons": {
+        "128": "images/logo.png"
+    },
+    "options_ui": {
+        "page": "options/options.html"
+    },
+    "manifest_version": 2
+  }
