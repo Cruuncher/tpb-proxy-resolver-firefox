@@ -1,3 +1,7 @@
+# This repo has been deprecated
+https://github.com/Cruuncher/tpb-proxy-resolver now supports chrome and firefox through a build script. 
+This repo will no further be updated
+
 # tpb-proxy-resolver-firefox
 
 This is a firefox port of tpb-proxy-resolver built for Google Chrome. The extension which adds a toolbar button for opening a working proxy to the pirate bay. 
